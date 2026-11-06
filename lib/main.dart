@@ -4,7 +4,7 @@ void main(){
   runApp(const MainScreen());
 }
 
-class MainScreen extends StatelessWidget {
+class MainScreen extends StatelessWidget
   const MainScreen({super.key});
 
   @override
