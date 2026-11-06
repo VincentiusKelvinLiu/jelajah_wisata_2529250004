@@ -39,14 +39,15 @@ class JelajahWisataPage extends StatelessWidget {
               children: [
                 const Text(
                   'Jelajah Wisata',
+                  textAlign: TextAlign.center,
                   style: TextStyle(
-                    fontSize: 12,
+                    fontSize: 20,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
 
                 const SizedBox(height: 10),
-                
+
               ],
             )
           ),
