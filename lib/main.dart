@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main(){
-  runApp(const JelajahWisataApp());
+  runApp(const MainScreen());
 }
 
-class JelajahWisataApp extends StatelessWidget {
-  const JelajahWisataApp({super.key});
+class MainScreen extends StatelessWidget {
+  const MainScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
